@@ -2,8 +2,8 @@
 
 
 <p align = "center">
-    <a href="#appearance"> Aparência </a> & bull;
-    <a href="#posts"> Postagens </a> & bull;
+    <a href="#appearance"> Aparência </a>;
+    <a href="#posts"> Postagens </a>;
     <a href="#installation"> Instalação </a>
 </p>
 -------
@@ -11,8 +11,10 @@
 ##  Aparência
 
 <h3 align = "center">
-  <img src = "assets / marvel_screens.png" alt = "Marvel Screens" />
+  <img src = "assets/marvel_screens.png" alt = "Marvel Screens" />
 </h3>
+
+
 
 
 ## Posts
